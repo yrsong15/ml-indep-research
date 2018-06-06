@@ -4,9 +4,9 @@
 
 This is a repo containing files from my independent research study conducted during the Spring 2018 semester at Duke University. 
 
-For Machine Learning, [Tensorflow](https://www.tensorflow.org/) and its pertinent libraries (*i.e.* NumPy, Pandas, and SciKit-Learn) were used primarily in my projects. Files are saved in a [Jupyter Notebook](http://jupyter.org/) format that can be run locally. 
+For theoretical research study on AI, Python files that run on simulated Minecraft settings were used to develop **search/learning algorithms** (minimax search & alpha-beta pruning, Markov models, Bayesian estimation, reinforcement learning, *etc.*) 
 
-For more general/theoretical research on AI, Python files that run on simulated Minecraft settings were used to develop **search/learning algorithms** (A* search, minimax search & alpha-beta pruning, reinforcement learning, *etc.*) 
+For Machine Learning applications, [Tensorflow](https://www.tensorflow.org/) and its pertinent libraries (*i.e.* NumPy, Pandas, and SciKit-Learn) were used primarily. Files are saved in a [Jupyter Notebook](http://jupyter.org/) format that can be run locally. 
 
 ### Resources
 + **A. Geron** - Hands-On Machine Learning with Scikit-Learn and Tensorflow
